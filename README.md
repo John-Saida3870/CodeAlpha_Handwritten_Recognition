@@ -14,4 +14,4 @@ Deep Learning
 98%
 
 ## Author
-Pavan
+John Saida
